@@ -992,3 +992,141 @@ JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 111
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1666112294946	geckodriver	INFO	Listening on 127.0.0.1:59277
+1666112295454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3wKQxV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666112296094	Marionette	INFO	Marionette enabled
+1666112296097	Marionette	INFO	Listening on port 35363
+WebDriver BiDi listening on ws://localhost:56091
+Read port: 35363
+1666112296260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3wKQxV/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+DevTools listening on ws://localhost:56091/devtools/browser/94b82025-3f60-4e2a-bc5d-7ad80a2f467a
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666112360342	Marionette	INFO	Stopped listening on port 35363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666112424682	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1666112440958	geckodriver	INFO	Listening on 127.0.0.1:56165
+1666112441470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiiHQUx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666112442115	Marionette	INFO	Marionette enabled
+1666112442118	Marionette	INFO	Listening on port 37211
+WebDriver BiDi listening on ws://localhost:60483
+Read port: 37211
+1666112442205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiiHQUx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60483/devtools/browser/123d3bc5-139c-4a91-aa83-86c3e45bf33b
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666112489723	Marionette	INFO	Stopped listening on port 37211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666112687803	geckodriver	INFO	Listening on 127.0.0.1:34357
+1666112688313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePjCQaP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666112688860	Marionette	INFO	Marionette enabled
+1666112688862	Marionette	INFO	Listening on port 38477
+WebDriver BiDi listening on ws://localhost:43419
+Read port: 38477
+1666112688956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePjCQaP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43419/devtools/browser/9f447505-e6ab-49f5-b02a-8a4ff0cbd033
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666112818247	geckodriver	INFO	Listening on 127.0.0.1:49119
+1666112818761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVrbKFp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666112819331	Marionette	INFO	Marionette enabled
+1666112819334	Marionette	INFO	Listening on port 35911
+WebDriver BiDi listening on ws://localhost:60659
+Read port: 35911
+1666112819405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVrbKFp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60659/devtools/browser/8e08b324-3713-40a5-901a-f48a2977e7c1
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666112883330	geckodriver	INFO	Listening on 127.0.0.1:51761
+1666112894968	geckodriver	INFO	Listening on 127.0.0.1:43855
+1666112895474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevwE53O"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666112896092	Marionette	INFO	Marionette enabled
+1666112896095	Marionette	INFO	Listening on port 42879
+WebDriver BiDi listening on ws://localhost:60287
+Read port: 42879
+1666112896285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevwE53O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60287/devtools/browser/e62e9e79-afea-4876-86a2-c22f3afabe94
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666113206647	geckodriver	INFO	Listening on 127.0.0.1:33481
+1666113207160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKOTgl9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666113207785	Marionette	INFO	Marionette enabled
+1666113207787	Marionette	INFO	Listening on port 46499
+WebDriver BiDi listening on ws://localhost:57995
+Read port: 46499
+1666113207949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKOTgl9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57995/devtools/browser/43f146f2-2c74-438a-b88a-31f91f345d3c
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement

@@ -173,25 +173,18 @@ def index_transcript(url, title, entries):
 
   get_and_wait(url)
   try:
-    if video_source := WebDriverWait(browser, timeout=TIMEOUT).until(
+    video_source = WebDriverWait(browser, timeout=TIMEOUT).until(
       lambda d: d.find_element(
         By.CSS_SELECTOR,
         'video#player > source[type="video/mp4"]'
       )
-    ):
-      video_source = video_source.get_attribute('src')
+    )
+    video_source = video_source.get_attribute('src')
 
-      download_video(title, video_source)
+    download_video(title, video_source)
 
-    else:
-      with open(TRANSCRIPTIONS_PATH, 'a+') as f:
-        f.write(json.dumps(
-          {
-            'title': title,
-            'transcription': '[MISSING]'
-          }
-        ) + '\n')
-  except:
+  except Exception as e:
+      print(e)
       with open(TRANSCRIPTIONS_PATH, 'a+') as f:
         f.write(json.dumps(
           {
