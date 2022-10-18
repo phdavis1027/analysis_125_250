@@ -1,0 +1,994 @@
+1665854160021	geckodriver	INFO	Listening on 127.0.0.1:60717
+1665854160535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepxdBCZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665854161121	Marionette	INFO	Marionette enabled
+1665854161124	Marionette	INFO	Listening on port 44811
+WebDriver BiDi listening on ws://localhost:38605
+Read port: 44811
+1665854161201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepxdBCZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38605/devtools/browser/979e1956-e017-46b1-aa1f-b12685b5e9ee
+1665854165804	Marionette	INFO	Stopped listening on port 44811
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665856944978	geckodriver	INFO	Listening on 127.0.0.1:57777
+1665856945479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJoS8Yn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665856946020	Marionette	INFO	Marionette enabled
+1665856946023	Marionette	INFO	Listening on port 36325
+WebDriver BiDi listening on ws://localhost:49647
+Read port: 36325
+1665856946184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJoS8Yn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49647/devtools/browser/4a1be51f-3919-4efa-9841-051a162ecdfc
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665856962081	Marionette	INFO	Stopped listening on port 36325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665972564587	geckodriver	INFO	Listening on 127.0.0.1:44397
+1665972565101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIAUhCD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665972565731	Marionette	INFO	Marionette enabled
+1665972565734	Marionette	INFO	Listening on port 34101
+WebDriver BiDi listening on ws://localhost:40217
+Read port: 34101
+1665972565904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIAUhCD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40217/devtools/browser/65688e1c-edc8-4bb3-9588-39dc9d534c10
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665972653845	geckodriver	INFO	Listening on 127.0.0.1:57757
+1665972654353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5vEIA6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665972654929	Marionette	INFO	Marionette enabled
+1665972654931	Marionette	INFO	Listening on port 45171
+WebDriver BiDi listening on ws://localhost:50451
+Read port: 45171
+1665972654997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5vEIA6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50451/devtools/browser/bf968615-a8bb-4a42-94b2-56e1864b2154
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665972708662	Marionette	INFO	Stopped listening on port 45171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665972765192	geckodriver	INFO	Listening on 127.0.0.1:45137
+1665972765704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXcggiL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665972766246	Marionette	INFO	Marionette enabled
+1665972766248	Marionette	INFO	Listening on port 41409
+WebDriver BiDi listening on ws://localhost:41747
+Read port: 41409
+1665972766391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXcggiL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41747/devtools/browser/bc41071d-6fab-4c87-a25b-ae0eba81c301
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665972917871	Marionette	INFO	Stopped listening on port 34101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665972918109	geckodriver	INFO	Listening on 127.0.0.1:40091
+1665972918625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea4cbZs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665972919182	Marionette	INFO	Marionette enabled
+1665972919184	Marionette	INFO	Listening on port 38979
+WebDriver BiDi listening on ws://localhost:58911
+Read port: 38979
+1665972919259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea4cbZs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58911/devtools/browser/c2387b17-2dc4-4814-8133-9fd433542dc0
+1665972921728	Marionette	INFO	Stopped listening on port 41409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665972969986	Marionette	INFO	Stopped listening on port 38979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665972974927	geckodriver	INFO	Listening on 127.0.0.1:56281
+1665972975439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenSbLwj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665972976008	Marionette	INFO	Marionette enabled
+1665972976010	Marionette	INFO	Listening on port 33251
+WebDriver BiDi listening on ws://localhost:59617
+Read port: 33251
+1665972976075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenSbLwj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59617/devtools/browser/dfeef3db-98e4-42c4-beeb-970e2a6a9c0f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665973131170	geckodriver	INFO	Listening on 127.0.0.1:49649
+1665973131682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7SJacy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973132203	Marionette	INFO	Marionette enabled
+1665973132205	Marionette	INFO	Listening on port 45475
+WebDriver BiDi listening on ws://localhost:38483
+Read port: 45475
+1665973132397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7SJacy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38483/devtools/browser/43acf846-eccc-4386-9ee0-6e00661e9468
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665973188145	geckodriver	INFO	Listening on 127.0.0.1:50241
+1665973188659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX4sPsf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973189178	Marionette	INFO	Marionette enabled
+1665973189180	Marionette	INFO	Listening on port 42697
+WebDriver BiDi listening on ws://localhost:47187
+Read port: 42697
+1665973189365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX4sPsf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47187/devtools/browser/e00ea211-1b94-45b7-a111-08b473285fce
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665973220521	geckodriver	INFO	Listening on 127.0.0.1:37633
+1665973220526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1bOrKD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973221057	Marionette	INFO	Marionette enabled
+1665973221059	Marionette	INFO	Listening on port 41043
+WebDriver BiDi listening on ws://localhost:49013
+Read port: 41043
+1665973221233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1bOrKD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49013/devtools/browser/5b364ad2-5fd6-46d1-9bef-38d79fcd72f6
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973682575	geckodriver	INFO	Listening on 127.0.0.1:33295
+1665973682580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1T5MoS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973683099	Marionette	INFO	Marionette enabled
+1665973683101	Marionette	INFO	Listening on port 43445
+WebDriver BiDi listening on ws://localhost:55013
+Read port: 43445
+1665973683280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1T5MoS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55013/devtools/browser/f9cccec3-4933-4a04-a31b-d9cc59f6c3a9
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973712159	geckodriver	INFO	Listening on 127.0.0.1:60371
+1665973712673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2aARDb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973713260	Marionette	INFO	Marionette enabled
+1665973713263	Marionette	INFO	Listening on port 32873
+WebDriver BiDi listening on ws://localhost:60515
+Read port: 32873
+1665973713335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2aARDb/search.json.mozlz4", (void 0)))
+1665973714033	Marionette	INFO	Stopped listening on port 43445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+DevTools listening on ws://localhost:60515/devtools/browser/2d5ab0b3-f1a7-4644-bd15-010dc9661d26
+1665973717112	Marionette	INFO	Stopped listening on port 41043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973777532	geckodriver	INFO	Listening on 127.0.0.1:45523
+1665973778043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefnIjAE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973778618	Marionette	INFO	Marionette enabled
+1665973778620	Marionette	INFO	Listening on port 44333
+WebDriver BiDi listening on ws://localhost:56313
+Read port: 44333
+1665973778687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefnIjAE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56313/devtools/browser/09cc1149-4885-43b7-824a-00d0784f1195
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973838560	geckodriver	INFO	Listening on 127.0.0.1:59047
+1665973839069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDYJc8h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973839582	Marionette	INFO	Marionette enabled
+1665973839585	Marionette	INFO	Listening on port 46619
+WebDriver BiDi listening on ws://localhost:49271
+Read port: 46619
+1665973839786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDYJc8h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49271/devtools/browser/eae18f6d-ac18-45b8-93a7-66ee6858b846
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973909518	geckodriver	INFO	Listening on 127.0.0.1:44145
+1665973910029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL6E4Zm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665973910578	Marionette	INFO	Marionette enabled
+1665973910581	Marionette	INFO	Listening on port 46261
+WebDriver BiDi listening on ws://localhost:55067
+Read port: 46261
+1665973910669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL6E4Zm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55067/devtools/browser/6bb678e8-e062-42eb-8575-33e08fb32b78
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665973941754	Marionette	INFO	Stopped listening on port 46261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665973945513	Marionette	INFO	Stopped listening on port 46619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665973949598	Marionette	INFO	Stopped listening on port 44333
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665973953607	Marionette	INFO	Stopped listening on port 32873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665974046332	geckodriver	INFO	Listening on 127.0.0.1:42569
+1665974046842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePcAZNw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974047425	Marionette	INFO	Marionette enabled
+1665974047427	Marionette	INFO	Listening on port 36899
+WebDriver BiDi listening on ws://localhost:44921
+Read port: 36899
+1665974047501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePcAZNw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44921/devtools/browser/e0a87b12-b57e-44ca-8d4d-a61ccfac7d59
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665974092379	geckodriver	INFO	Listening on 127.0.0.1:38061
+1665974092889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen83czR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974093418	Marionette	INFO	Marionette enabled
+1665974093420	Marionette	INFO	Listening on port 44267
+WebDriver BiDi listening on ws://localhost:60855
+Read port: 44267
+1665974093603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen83czR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60855/devtools/browser/67c1b097-1570-4cfd-81f3-e7d7a3cd7ce7
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665974152827	Marionette	INFO	Stopped listening on port 44267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665974155244	Marionette	INFO	Stopped listening on port 36899
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665974290543	geckodriver	INFO	Listening on 127.0.0.1:39249
+1665974291054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileswUtKR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974291568	Marionette	INFO	Marionette enabled
+1665974291570	Marionette	INFO	Listening on port 44759
+WebDriver BiDi listening on ws://localhost:55903
+Read port: 44759
+1665974291762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileswUtKR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55903/devtools/browser/16c548cf-0979-432f-a730-e8ad1c0ef946
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665974356814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1665974359349	Marionette	INFO	Stopped listening on port 44759
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665974401469	geckodriver	INFO	Listening on 127.0.0.1:49389
+1665974401981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejogrYn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974402493	Marionette	INFO	Marionette enabled
+1665974402495	Marionette	INFO	Listening on port 39843
+WebDriver BiDi listening on ws://localhost:39641
+Read port: 39843
+1665974402675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejogrYn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39641/devtools/browser/b768572f-08d5-4644-a070-75328aec6655
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665974440217	geckodriver	INFO	Listening on 127.0.0.1:60779
+1665974440722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyMoJyq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974441248	Marionette	INFO	Marionette enabled
+1665974441250	Marionette	INFO	Listening on port 38013
+WebDriver BiDi listening on ws://localhost:37043
+Read port: 38013
+1665974441426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyMoJyq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37043/devtools/browser/f89b752c-1a52-46bb-ae6c-9af0da8ff0f0
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665974500594	geckodriver	INFO	Listening on 127.0.0.1:51851
+1665974501105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebjhqoZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665974501673	Marionette	INFO	Marionette enabled
+1665974501675	Marionette	INFO	Listening on port 39327
+WebDriver BiDi listening on ws://localhost:41305
+Read port: 39327
+1665974501751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebjhqoZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41305/devtools/browser/b028deb9-d777-4bb1-b70a-c0c1714095b5
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665975230427	geckodriver	INFO	Listening on 127.0.0.1:46625
+1665975230932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLvFeIc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665975231613	Marionette	INFO	Marionette enabled
+1665975231617	Marionette	INFO	Listening on port 38669
+WebDriver BiDi listening on ws://localhost:49233
+Read port: 38669
+1665975231708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLvFeIc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49233/devtools/browser/191e187b-80bd-44fe-a8f8-291de3608757
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665975240716	Marionette	INFO	Stopped listening on port 38013
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665975248919	Marionette	INFO	Stopped listening on port 39327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665975254318	Marionette	INFO	Stopped listening on port 39843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665975259802	geckodriver	INFO	Listening on 127.0.0.1:46863
+1665975260313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerOkK3w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665975260853	Marionette	INFO	Marionette enabled
+1665975260856	Marionette	INFO	Listening on port 33351
+WebDriver BiDi listening on ws://localhost:42403
+Read port: 33351
+1665975261001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOkK3w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42403/devtools/browser/6a98f558-c369-4531-9144-fbf062ae1cc4
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665975961313	geckodriver	INFO	Listening on 127.0.0.1:44523
+1665975961824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled8W8Q4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665975962347	Marionette	INFO	Marionette enabled
+1665975962349	Marionette	INFO	Listening on port 46769
+WebDriver BiDi listening on ws://localhost:36733
+Read port: 46769
+1665975962462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled8W8Q4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36733/devtools/browser/7f2a1606-80a0-4a6e-ad76-a3589f4f8cee
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665976442885	geckodriver	INFO	Listening on 127.0.0.1:51241
+1665976443398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCAiu6j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665976443942	Marionette	INFO	Marionette enabled
+1665976443945	Marionette	INFO	Listening on port 33101
+WebDriver BiDi listening on ws://localhost:55931
+Read port: 33101
+1665976444082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCAiu6j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55931/devtools/browser/8592fc67-b227-45e6-a1cb-ef5b44763cca
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665977091341	geckodriver	INFO	Listening on 127.0.0.1:54711
+1665977091851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileetEKd5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665977092512	Marionette	INFO	Marionette enabled
+1665977092514	Marionette	INFO	Listening on port 44139
+WebDriver BiDi listening on ws://localhost:33957
+Read port: 44139
+1665977092596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileetEKd5/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+1665977098293	Marionette	INFO	Stopped listening on port 33101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665977100702	Marionette	INFO	Stopped listening on port 46769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665977112121	geckodriver	INFO	Listening on 127.0.0.1:46147
+1665977112632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU0taVs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665977113183	Marionette	INFO	Marionette enabled
+1665977113186	Marionette	INFO	Listening on port 35297
+WebDriver BiDi listening on ws://localhost:46951
+Read port: 35297
+1665977113319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU0taVs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46951/devtools/browser/5352f3bb-f96f-4337-90db-08e8755f72b6
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665977721658	geckodriver	INFO	Listening on 127.0.0.1:35583
+1665977722171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesNRdNJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665977722718	Marionette	INFO	Marionette enabled
+1665977722721	Marionette	INFO	Listening on port 44551
+WebDriver BiDi listening on ws://localhost:45659
+Read port: 44551
+1665977722869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesNRdNJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45659/devtools/browser/9c8675b7-1f85-45e4-b2b8-cbdf067ad482
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665978306693	geckodriver	INFO	Listening on 127.0.0.1:43469
+1665978307205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh1nYPh"
+1665978311623	Marionette	INFO	Stopped listening on port 44551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665978314330	Marionette	INFO	Stopped listening on port 35297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665978497281	geckodriver	INFO	Listening on 127.0.0.1:56219
+1665978497793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepIEHDp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665978498308	Marionette	INFO	Marionette enabled
+1665978498311	Marionette	INFO	Listening on port 42999
+WebDriver BiDi listening on ws://localhost:44417
+Read port: 42999
+1665978498487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepIEHDp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44417/devtools/browser/a211f296-2182-4009-8332-e6a01cbeb5b1
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665979102677	geckodriver	INFO	Listening on 127.0.0.1:43451
+1665979102682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKdTndi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665979103175	Marionette	INFO	Marionette enabled
+1665979103177	Marionette	INFO	Listening on port 46787
+WebDriver BiDi listening on ws://localhost:48045
+Read port: 46787
+1665979103257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKdTndi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48045/devtools/browser/0628a5a3-7cb8-43d8-a754-4ebf5e79e814
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665979116593	Marionette	INFO	Stopped listening on port 46787
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665979240841	Marionette	INFO	Stopped listening on port 42999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665979435499	geckodriver	INFO	Listening on 127.0.0.1:34005
+1665979436012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHbCWqW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665979436594	Marionette	INFO	Marionette enabled
+1665979436597	Marionette	INFO	Listening on port 38829
+WebDriver BiDi listening on ws://localhost:59937
+Read port: 38829
+1665979436674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHbCWqW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59937/devtools/browser/92b4b4c2-1b4b-46ae-b837-f04132483648
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665980700076	geckodriver	INFO	Listening on 127.0.0.1:46581
+1665980700585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQQFMva"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665980701194	Marionette	INFO	Marionette enabled
+1665980701197	Marionette	INFO	Listening on port 37639
+WebDriver BiDi listening on ws://localhost:46673
+Read port: 37639
+1665980701390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQQFMva/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46673/devtools/browser/f53095a4-672e-428e-b4f5-59ce77652e95
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665980918599	geckodriver	INFO	Listening on 127.0.0.1:50077
+1665980919113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekr3q96"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665980919636	Marionette	INFO	Marionette enabled
+1665980919639	Marionette	INFO	Listening on port 37323
+WebDriver BiDi listening on ws://localhost:45223
+Read port: 37323
+1665980919828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekr3q96/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45223/devtools/browser/81bc6097-33d6-41d6-a475-2d7390cbd964
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1665982401893	Marionette	INFO	Stopped listening on port 37323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665982555118	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666014622342	geckodriver	INFO	Listening on 127.0.0.1:43099
+1666014622850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefrlVmF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666014623436	Marionette	INFO	Marionette enabled
+1666014623439	Marionette	INFO	Listening on port 35919
+WebDriver BiDi listening on ws://localhost:44919
+Read port: 35919
+1666014623522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefrlVmF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44919/devtools/browser/53df393c-c48e-4dc5-adf4-ec58c58bd97a
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666019205172	geckodriver	INFO	Listening on 127.0.0.1:38719
+1666019205680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUMrmn5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666019206237	Marionette	INFO	Marionette enabled
+1666019206239	Marionette	INFO	Listening on port 38245
+WebDriver BiDi listening on ws://localhost:42017
+Read port: 38245
+1666019206309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUMrmn5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42017/devtools/browser/1468b04a-9899-427b-84cb-b93241163db3
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666019236812	Marionette	INFO	Stopped listening on port 38245
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666019261981	geckodriver	INFO	Listening on 127.0.0.1:51659
+1666019262493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOxqtEQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666019263001	Marionette	INFO	Marionette enabled
+1666019263003	Marionette	INFO	Listening on port 34283
+WebDriver BiDi listening on ws://localhost:34795
+Read port: 34283
+1666019263207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOxqtEQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34795/devtools/browser/c7d374b1-3b53-44e3-9eb3-32fada3cee0e
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666025707408	geckodriver	INFO	Listening on 127.0.0.1:46781
+1666025707905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKsnsr0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666025708529	Marionette	INFO	Marionette enabled
+1666025708532	Marionette	INFO	Listening on port 40163
+WebDriver BiDi listening on ws://localhost:57089
+Read port: 40163
+1666025708732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKsnsr0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57089/devtools/browser/f1b81093-5cb3-4b35-9dfa-b24c4bf179d7
+1666025710647	Marionette	INFO	Stopped listening on port 40163
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666025711815	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1666026573438	geckodriver	INFO	Listening on 127.0.0.1:36621
+1666026573443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKydDIG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666026573950	Marionette	INFO	Marionette enabled
+1666026573952	Marionette	INFO	Listening on port 35535
+WebDriver BiDi listening on ws://localhost:41239
+Read port: 35535
+1666026574132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKydDIG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41239/devtools/browser/d791768a-100f-4ef3-bdd1-b46e21511119
+1666026579850	Marionette	INFO	Stopped listening on port 34283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666052057544	geckodriver	INFO	Listening on 127.0.0.1:56935
+1666052058054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileldgS64"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666052058685	Marionette	INFO	Marionette enabled
+1666052058688	Marionette	INFO	Listening on port 33149
+WebDriver BiDi listening on ws://localhost:49857
+Read port: 33149
+1666052058850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileldgS64/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49857/devtools/browser/7e6a95a2-47ae-4fdb-92b3-ae906c7d76ef
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666052494370	geckodriver	INFO	Listening on 127.0.0.1:52807
+1666052494882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXnQS0u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666052495498	Marionette	INFO	Marionette enabled
+1666052495501	Marionette	INFO	Listening on port 42359
+WebDriver BiDi listening on ws://localhost:38581
+Read port: 42359
+1666052495706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXnQS0u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38581/devtools/browser/cbd66675-0acc-4e77-babc-bfb623f9e7e3
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666052507236	Marionette	INFO	Stopped listening on port 42359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666052530216	geckodriver	INFO	Listening on 127.0.0.1:57097
+1666052530761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWUu0IP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666052531339	Marionette	INFO	Marionette enabled
+1666052531341	Marionette	INFO	Listening on port 34669
+WebDriver BiDi listening on ws://localhost:59709
+Read port: 34669
+1666052531436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUu0IP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59709/devtools/browser/ce199769-8ae7-4bd8-b52a-2b2a5ea72099
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666052537772	Marionette	INFO	Stopped listening on port 34669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666052690977	geckodriver	INFO	Listening on 127.0.0.1:43711
+1666052691488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBHnYiW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666052692124	Marionette	INFO	Marionette enabled
+1666052692127	Marionette	INFO	Listening on port 40123
+WebDriver BiDi listening on ws://localhost:53345
+Read port: 40123
+1666052692275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBHnYiW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53345/devtools/browser/4a0769ef-2c30-4789-89dd-f318cd0a6f5e
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666055081439	geckodriver	INFO	Listening on 127.0.0.1:35029
+1666055081947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6C9zVe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666055082573	Marionette	INFO	Marionette enabled
+1666055082575	Marionette	INFO	Listening on port 39337
+WebDriver BiDi listening on ws://localhost:38867
+Read port: 39337
+1666055082823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6C9zVe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38867/devtools/browser/ef3a64bc-1e42-483e-af38-713592d99a8f
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666055169504	Marionette	INFO	Stopped listening on port 35535
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666055399691	geckodriver	INFO	Listening on 127.0.0.1:46139
+1666055400202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebkeCZw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666055400806	Marionette	INFO	Marionette enabled
+1666055400808	Marionette	INFO	Listening on port 43611
+WebDriver BiDi listening on ws://localhost:34847
+Read port: 43611
+1666055400985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebkeCZw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34847/devtools/browser/ffad1155-9368-43e8-8b68-80503d836027
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+1666055467886	Marionette	INFO	Stopped listening on port 43611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666055485102	geckodriver	INFO	Listening on 127.0.0.1:58581
+1666055485615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemIKCxe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666055486147	Marionette	INFO	Marionette enabled
+1666055486149	Marionette	INFO	Listening on port 36281
+WebDriver BiDi listening on ws://localhost:35601
+Read port: 36281
+1666055486371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemIKCxe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35601/devtools/browser/422c80c5-f9b3-4826-a523-d30f4bc1f6ae
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666056318138	geckodriver	INFO	Listening on 127.0.0.1:49911
+1666056318649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4eYNCZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666056319244	Marionette	INFO	Marionette enabled
+1666056319247	Marionette	INFO	Listening on port 38845
+Read port: 38845
+WebDriver BiDi listening on ws://localhost:42297
+1666056319329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4eYNCZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42297/devtools/browser/81d668b3-c2bd-4769-b23a-8c4885d39f01
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666060119455	geckodriver	INFO	Listening on 127.0.0.1:57197
+1666060119963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehgUBmo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666060120766	Marionette	INFO	Marionette enabled
+1666060120770	Marionette	INFO	Listening on port 41651
+WebDriver BiDi listening on ws://localhost:33589
+Read port: 41651
+1666060120980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehgUBmo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33589/devtools/browser/418687a9-56b7-482f-a7b1-e4b5fc868b36
+console.error: (new Error("No bookmarks found for the provided GUID.", "resource://gre/modules/Bookmarks.jsm", 1306)) "Can't undo a transaction, clearing undo entries."
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1666105023386	geckodriver	INFO	Listening on 127.0.0.1:40471
+1666105023390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemU8UZJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666105024102	Marionette	INFO	Marionette enabled
+1666105024105	Marionette	INFO	Listening on port 37487
+WebDriver BiDi listening on ws://localhost:45559
+Read port: 37487
+1666105024234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemU8UZJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45559/devtools/browser/9d1533bc-9560-488b-9464-374d6ebbd1ac
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666106182397	geckodriver	INFO	Listening on 127.0.0.1:60627
+1666106182401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehMoPrz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666106182933	Marionette	INFO	Marionette enabled
+1666106182935	Marionette	INFO	Listening on port 41725
+WebDriver BiDi listening on ws://localhost:45415
+Read port: 41725
+1666106183105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehMoPrz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45415/devtools/browser/b4abe51e-c26b-4b23-9d02-2fbde32d56d5
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 967: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1064: unreachable code after return statement
+JavaScript warning: https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js, line 1111: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
